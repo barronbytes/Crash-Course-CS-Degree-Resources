@@ -1,5 +1,5 @@
-# Free Online CS Degree Resources
-Calling all self-taught aspiring software engineers! Many of us cannot turn back the clock and go back to school to pursue a bachelor's degree in computer science. C'est la vie. However, that doesn't mean we cannot learn CS topics on our own. For free! This page contains a curated list of open-source resources to master CS topics.
+# Crash Course CS Degree Resources
+Calling all self-taught aspiring software engineers! Many of us cannot turn back the clock and go back to school to pursue a bachelor's degree in computer science. C'est la vie. However, that doesn't mean we cannot learn CS topics on our own. Often for pennies on the dollar! This page contains a curated list of open-source resources to master CS topics. I update this page as I make learning progress.
 
 ## About the Information Below
 
